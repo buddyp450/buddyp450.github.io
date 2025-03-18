@@ -21,7 +21,7 @@ There’s a lot of history behind this, but the short version is that people are
 And it’s exactly what happens when broad, responsibility-free messages get blasted into work channels.
 
 ### How This Messes With Your Brain (And Your Team)
-First, there’s the performance anxiety spiral. If you struggle with imposter syndrome or just want to be seen as a high-performer, you’re gonna feel the need to jump in and look useful, even when you don’t have the full picture. You’ll drop your current work, spend 10 minutes reading through issue management system, another 10 trying to piece together what’s actually happening, and then realize that…
+First, there’s the performance anxiety spiral. If you struggle with imposter syndrome or just want to be seen as a high-performer, you’re gonna feel the need to jump in and look useful, even when you don’t have the full picture. You’ll drop your current work, spend 10 minutes reading through the company's issue management system, another 10 trying to piece together what’s actually happening, and then realize that…
 
 _Someone else already handled it._
 
