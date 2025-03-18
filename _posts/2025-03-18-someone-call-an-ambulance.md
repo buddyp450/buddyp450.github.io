@@ -29,21 +29,22 @@ But now you’ve completely lost the flow of what you were _actually_ working on
 
 And worst of all? Over time, it leads to team burnout and apathy. If messages like this keep happening, people start disengaging. Everyone gets tired of playing psychic detective and just stops responding. Eventually, the only people who react are the ones too anxious not to—usually the same few people, until they burn out, too.
 
-How To Make This Less Awful
+### How To Make This Less Awful
+
 This isn’t to say that you should never send a broad team message. Sometimes, it’s necessary! But if you don’t want to trigger the bystander effect and a chain reaction of wasted productivity, here’s how to do it better:
 
-### @ Someone Specific 
+#### @ Someone Specific 
 If you even vaguely have an idea of who needs to handle it, tag them directly. It stops the “someone else will handle it” effect in its tracks and at least starts on the track to the right responsible person(s).
 
-### Give Context. 
+#### Give Context. 
 
 Instead of “Production is down,” try “Looks like our API is failing. @DevOps, can you check?” Now we know who should handle it and what’s wrong.
 
-### Encourage a Culture of Clear Ownership. 
+#### Encourage a Culture of Clear Ownership. 
 
 If your team constantly deals with these vague, responsibility-free messages, it might be time to have a chat about clearer communication and ownership. Make it normal to call out who should handle what.
 
-### And If You’re The One Who Feels Obligated to Jump In? 
+#### And If You’re The One Who Feels Obligated to Jump In? 
 
 Take a breath. Ask yourself, “Is this actually my job to fix?” If not, let someone else take the lead. You don’t have to be the workplace hero every time.
 
